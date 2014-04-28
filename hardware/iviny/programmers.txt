@@ -1,0 +1,3 @@
+iviny.name=IViny
+iviny.communication=usb
+iviny.protocol=digispark

@@ -1,0 +1,48 @@
+iviny-tiny.name=IViny (Tiny Core)
+iviny-tiny.upload.maximum_size=6012
+iviny-tiny.build.mcu=attiny85
+iviny-tiny.build.f_cpu=16500000L
+iviny-tiny.build.core=tiny
+iviny-tiny.upload.using=iviny
+iviny-tiny.bootloader.low_fuses=0xf1
+iviny-tiny.bootloader.high_fuses=0x5f
+iviny-tiny.bootloader.extended_fuses=0xfe
+iviny-tiny.bootloader.path=micronucleus
+iviny-tiny.bootloader.file=micronucleus-1.06-upgrade.hex
+
+iviny-tiny16mhz.name=IViny 16.0mhz - NO USB (Tiny Core)
+iviny-tiny16mhz.upload.maximum_size=6012
+iviny-tiny16mhz.build.mcu=attiny85
+iviny-tiny16mhz.build.f_cpu=16000000L
+iviny-tiny16mhz.build.core=tiny
+iviny-tiny16mhz.upload.using=iviny
+iviny-tiny16mhz.bootloader.low_fuses=0xf1
+iviny-tiny16mhz.bootloader.high_fuses=0x5f
+iviny-tiny16mhz.bootloader.extended_fuses=0xfe
+iviny-tiny16mhz.bootloader.path=micronucleus
+iviny-tiny16mhz.bootloader.file=micronucleus-1.06-upgrade.hex
+
+iviny-tiny8mhz.name=IViny 8mhz - NO USB (Tiny Core)
+iviny-tiny8mhz.upload.maximum_size=6012
+iviny-tiny8mhz.build.mcu=attiny85
+iviny-tiny8mhz.build.f_cpu=8000000L
+iviny-tiny8mhz.build.core=tiny
+iviny-tiny8mhz.upload.using=iviny
+iviny-tiny8mhz.bootloader.low_fuses=0xf1
+iviny-tiny8mhz.bootloader.high_fuses=0x5f
+iviny-tiny8mhz.bootloader.extended_fuses=0xfe
+iviny-tiny8mhz.bootloader.path=micronucleus
+iviny-tiny8mhz.bootloader.file=micronucleus-1.06-upgrade.hex
+
+iviny-tiny1mhz.name=IViny 1mhz - NO USB (Tiny Core)
+iviny-tiny1mhz.upload.maximum_size=6012
+iviny-tiny1mhz.build.mcu=attiny85
+iviny-tiny1mhz.build.f_cpu=1000000L
+iviny-tiny1mhz.build.core=tiny
+iviny-tiny1mhz.upload.using=iviny
+iviny-tiny1mhz.bootloader.low_fuses=0xf1
+iviny-tiny1mhz.bootloader.high_fuses=0x5f
+iviny-tiny1mhz.bootloader.extended_fuses=0xfe
+iviny-tiny1mhz.bootloader.path=micronucleus
+iviny-tiny1mhz.bootloader.file=micronucleus-1.06-upgrade.hex
+
